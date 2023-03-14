@@ -2,4 +2,6 @@ Esta es la historia de como Santiago renuncio a su trabajo
 para dedicarse a estudiar estas cosas increibles
 las cuales se hacen con la lengua seca en una terminal...
 de comandos donde se intenta integrar diferentes 
-tecnologías retrofuturistas sacadas de una historia de ciencia ficcion
+tecnologías retrofuturistas sacadas de una historia de ciencia ficcion.
+
+Parece muy inteligente pero en realidad no lo es mucho.
