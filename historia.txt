@@ -5,3 +5,5 @@ de comandos donde se intenta integrar diferentes
 tecnologías retrofuturistas sacadas de una historia de ciencia ficcion.
 
 Parece muy inteligente pero en realidad no lo es mucho.
+
+Además vamos a hablar de su vida como DEV
