@@ -1,6 +1,6 @@
 body {
     text-align: center;
-    font-family: "Arial";
+    font-family: 'Comic-Sans';
     font-size: 18px;
     margin: 0;
     color: #333;
@@ -9,6 +9,7 @@ body {
 #container {
     width: 70%;
     padding: 1em;
+    font-family: 'Courier New', Courier, monospace;
     text-align: left;
     border: 1px solid #ddd;
     margin: 0 auto;
